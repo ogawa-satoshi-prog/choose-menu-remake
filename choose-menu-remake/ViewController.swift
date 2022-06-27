@@ -11,6 +11,7 @@ import WebKit
 class ViewController: UIViewController {
     @IBOutlet weak var wall: UIImageView!
     @IBOutlet weak var logo: UIImageView!
+    @IBOutlet weak var webView: WKWebView!
     
 
     override func viewDidLoad() {

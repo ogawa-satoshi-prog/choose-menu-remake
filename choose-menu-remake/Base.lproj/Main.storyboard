@@ -50,6 +50,7 @@
                     <connections>
                         <outlet property="logo" destination="rkt-GX-fra" id="agn-st-0qx"/>
                         <outlet property="wall" destination="A4f-3L-JNA" id="ROI-XH-QCq"/>
+                        <outlet property="webView" destination="7bQ-ia-UZr" id="6sJ-bZ-Ft3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
