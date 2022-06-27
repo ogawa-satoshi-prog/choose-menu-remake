@@ -6,8 +6,12 @@
 //
 
 import UIKit
+import WebKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var wall: UIImageView!
+    @IBOutlet weak var logo: UIImageView!
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
